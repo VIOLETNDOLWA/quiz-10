@@ -1,0 +1,167 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  background-color: rgb(208,208,223);
+}.column1{
+   margin: 0px;
+   min-height: 50px;
+   background-color: #0e2433; 
+   text-align: center;
+   font-size: small; 
+   color: #ffffff;
+   padding-bottom: 10px;
+
+}
+.column2{
+    margin: 0px;
+    min-height: 100px;
+    background-color :#273F4B;
+    text-align: center;
+    font-size: large; 
+    color: #ffffff;
+    padding-bottom: 20px;
+
+ 
+ }
+ .container{
+     min-width: 100%;
+     min-height:100%;
+     
+
+ }
+ h2{
+     font-size:50px ;
+ }
+ h3{
+    font-size:20px;
+    color: yellow;
+    letter-spacing: 5px;
+}
+.column3{
+    margin:20px;
+    min-height: 50px;
+    background-color:yellow; 
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+     
+    
+    
+}
+h4{
+    font-weight: bold;
+    color:blue;
+    margin: 30px;
+    font-size: 25px;
+    padding: 20px; 
+
+
+}
+.column4{
+    min-height: 50px;
+    background-color:white; 
+    position: relative;
+    bottom: 30px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding-bottom: -1000px; 
+}
+.image{
+    margin-left: 15px;
+    margin-top:  15px;
+}
+.paragraph{
+    
+   padding-left: 300px; 
+    bottom: 200px;
+    position: relative;
+}
+.column5{
+    min-height: 50px;
+    background-color:yellow; 
+    margin-left: 170px;
+
+    
+}
+.column6{
+    min-height: 50px;
+    background-color:yellow; 
+    margin-right: 170px;
+
+
+}
+.column7{
+    min-height: 50px;
+    background-color:white; 
+    margin-left: 185px;
+ 
+
+}
+.column8{
+    min-height: 50px;
+    background-color:white;
+    margin-right: 185px;
+ 
+
+}
+table{
+    width: 1050px;
+    height:150px; 
+    font-family:sans-serif;
+    text-align:left;
+   position: relative;
+    bottom: -20px;
+
+    
+   
+   
+  }
+  td,th{
+    padding:8px;
+    
+  }
+  tr{
+    border-bottom:1px solid ;
+  } 
+   th{
+    background-color:#fdc407;
+    }
+   
+     
+    
+    tr{
+      background-color:#fff;
+    }
+    .column9{
+        margin: 0px;
+        min-height: 50px;
+        background-color:#254855; 
+        font-size: large; 
+        color: #ffffff;
+        /* padding-bottom: 20px; */
+    
+     
+     }
+     .footer{
+         margin:80px;
+         
+     }
+     .footer1{
+         margin:80px;
+         position:relative;
+         bottom: 70px;
+     }
+     .footer2{
+         margin:80px;
+         position: relative;
+         bottom: 120px;
+         color: rgb(219, 219, 52);
+     }
+
+   
+
+    
+    
